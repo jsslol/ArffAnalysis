@@ -1,5 +1,5 @@
 # ArffAnalysis
-Problem Description: Reads training data from a weka arff file and stores them in data structures and then generates OneR outputs. OneR rule is in fact a set of 
+Reads training data from a weka arff file and stores them in data structures and then generates OneR outputs. OneR rule is in fact a set of 
 rules that all based on value of a SINGLE attribute.  In addition the program also prints the error 
 rate of the oneR rule (set) on the training set.  We assume that all attributes are nominal type and thus 
 no discretization is required. 
